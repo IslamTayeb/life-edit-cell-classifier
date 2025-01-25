@@ -6,3 +6,4 @@ venv/
 code/classifier_imt/repomix-output.txt
 code/EDA_sj/repomix-output.txt
 output.png
+.python-version
